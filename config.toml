@@ -1,3 +1,21 @@
 baseURL = "https://swamilifts.com"
 languageCode = "en-us"
 title = "Swami Lifts"
+theme = "ananke"
+
+# what does this mean?
+sectionPagesMenu = "main"
+paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = "UA-76033032-2"
+enableRobotsTXT = true
+enableGitInfo = true
+
+[params]
+  favicon = ""
+  description = "An Indian man lifts weights."
+  twitter = "https://twitter.com/swaminasty"
+  instagram = "https://www.instagram.com/swamilifts"
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-black"
+  featured_image = "/images/gohugo-default-sample-hero-image.jpg"
+  recent_posts_number = 2
