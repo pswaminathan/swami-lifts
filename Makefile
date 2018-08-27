@@ -21,7 +21,7 @@ help:
 all: build
 
 build:
-	$(HUGO)
+	HUGO_ENV=production $(HUGO)
 
 clean:
 	cd public && git reset --hard && git clean -df
