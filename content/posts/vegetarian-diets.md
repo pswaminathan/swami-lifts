@@ -1,7 +1,7 @@
 ---
 title: "Getting Enough Protein as a Vegetarian"
 date: 2018-06-28T17:42:34-04:00
-draft: true
+draft: false
 categories:
   - nutrition
 tags:
