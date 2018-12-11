@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nutrition on Swami Lifts</title>
+    <link>https://swamilifts.com/tags/nutrition/</link>
+    <description>Recent content in Nutrition on Swami Lifts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 28 Jun 2018 17:42:34 -0400</lastBuildDate>
+    
+	<atom:link href="https://swamilifts.com/tags/nutrition/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Getting Enough Protein as a Vegetarian</title>
+      <link>https://swamilifts.com/posts/vegetarian-diets/</link>
+      <pubDate>Thu, 28 Jun 2018 17:42:34 -0400</pubDate>
+      
+      <guid>https://swamilifts.com/posts/vegetarian-diets/</guid>
+      <description>If you want to get stronger, you need to get enough protein. Your body needs protein to build muscle, and it needs a lot of it. The general recommendation for people who are actively strength training is to get around a gram of protein per pound of weight in pounds. That is, if you weigh 150 pounds, you should consume anywhere from 120–150 grams of protein throughout the day.</description>
+    </item>
+    
+  </channel>
+</rss>
