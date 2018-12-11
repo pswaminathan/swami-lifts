@@ -3,7 +3,7 @@ title: "About"
 date: 2018-07-04T12:23:22-04:00
 description: "An Indian man lifts weights"
 featured_image: 'images/squat.jpg'
-draft: true
+draft: false
 ---
 
 ## Who are you?

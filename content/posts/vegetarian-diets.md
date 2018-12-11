@@ -5,7 +5,7 @@ draft: false
 categories:
   - nutrition
 tags:
-  - diet
+  - nutrition
   - protein
   - vegetarianism
 ---
