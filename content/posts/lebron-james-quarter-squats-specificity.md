@@ -4,6 +4,8 @@ date: 2018-12-10T17:53:54-05:00
 draft: false
 categories:
   - programming
+tags:
+  - programming
 ---
 
 A few months ago, [video surfaced](https://brobible.com/sports/article/lebron-james-instagram-squats-technique/) of LeBron James doing an unusual wide-stance quarter squat. The internet exploded into two camps:
