@@ -25,7 +25,7 @@ build: clean
 	HUGO_ENV=production $(HUGO)
 
 check-branch:
-	[ "$$(git diff --shortstat | wc -l)" = "0" ] || false
+	[ $$(git diff --shortstat | wc -l) = 0 ] || false
 
 clean:
 	cd public && git reset --hard && git clean -df
