@@ -24,13 +24,16 @@ all: clean build
 build: clean
 	HUGO_ENV=production $(HUGO)
 
+check-branch:
+	[ "$$(git diff --shortstat | wc -l)" = "0" ] || false
+
 clean:
 	cd public && git reset --hard && git clean -df
 
 commit:
 	cd public && git add --all && git commit -m "Publishing to gh-pages"
 
-deploy: clean build commit
+deploy: check-branch clean build commit
 	git push origin gh-pages
 
 serve:
